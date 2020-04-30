@@ -7,6 +7,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+        <option value="JavaFXApplication" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -33,5 +43,11 @@
       <updated>1588280084342</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="761" y="463" key="#Notifications" timestamp="1588282329832">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="761" y="463" key="#Notifications/0.0.1920.1160/-1280.0.1280.984@0.0.1920.1160" timestamp="1588282329832" />
   </component>
 </project>
