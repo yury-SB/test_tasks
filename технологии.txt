@@ -1,5 +1,0 @@
-Стек технологий: Python, Flask, MongoDB, Redis, Celery, Docker, React.js, Vue.js
-
-Инструменты: GitLab, Jira, Confluence, Grafana, Logstash
-QA Space
-PostgreSQL и написания sql-запросов (выборка, вложенные запросы, объединение таблиц)
